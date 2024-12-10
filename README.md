@@ -30,6 +30,6 @@ This repository contains code for hiding a message within an image using the Lea
 
 ## Author
 
-This code is authored by [Your Name] and is provided under the [license type].
+This code is authored by Harsh Gupta and is provided under the [license type].
 
-For any questions or issues, please contact [author email].
+For any questions or issues, please contact harshgup11@gmail.com.
